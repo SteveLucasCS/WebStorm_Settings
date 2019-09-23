@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T01:12:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-19T01:51:03</property>
+    <property name="modified">2019-09-23T17:39:50</property>
     <property name="originalScheme">Joker Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -603,7 +603,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="c38bff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -625,7 +625,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="8c3f7" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -678,12 +678,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="d163ff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="ca97ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -698,7 +698,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="d163ff" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -714,7 +714,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b27d" />
+        <option name="FOREGROUND" value="b232" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -726,7 +726,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="c0ccdb" />
+        <option name="FOREGROUND" value="e1eeff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -741,7 +741,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -756,7 +756,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="ce44ff" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -772,7 +772,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="9a6fc4" />
+        <option name="FOREGROUND" value="d163ff" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
