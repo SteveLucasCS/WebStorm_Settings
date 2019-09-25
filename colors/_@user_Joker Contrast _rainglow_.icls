@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T01:12:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-25T12:36:45</property>
+    <property name="modified">2019-09-25T12:49:58</property>
     <property name="originalScheme">Joker Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -697,8 +697,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d0dded" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -741,7 +740,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e1eeff" />
+        <option name="FOREGROUND" value="d9e6f6" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -761,7 +760,8 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="eaffff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -792,7 +792,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="96a4b4" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -2088,16 +2088,6 @@
         <option name="FOREGROUND" value="a0b2c8" />
       </value>
     </option>
-    <option name="OC.ENUM_CONST">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="OC.EXTERN_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-      </value>
-    </option>
     <option name="OC.FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="a0b2c8" />
@@ -2111,11 +2101,6 @@
     <option name="OC.GENERIC_PARAMETER">
       <value>
         <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
-    <option name="OC.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
     <option name="OC.HEADER_PATH">
@@ -2149,11 +2134,6 @@
       <value>
         <option name="FOREGROUND" value="76818e" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="OC.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="OC.MACRONAME">
@@ -2192,11 +2172,6 @@
         <option name="FOREGROUND" value="a0b2c8" />
       </value>
     </option>
-    <option name="OC.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-      </value>
-    </option>
     <option name="OC.PARENTHS">
       <value>
         <option name="FOREGROUND" value="a0b2c8" />
@@ -2229,11 +2204,6 @@
         <option name="FOREGROUND" value="a0b2c8" />
       </value>
     </option>
-    <option name="OC.STRING">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
     <option name="OC.STRUCT_FIELD">
       <value>
         <option name="FOREGROUND" value="c0ccdb" />
@@ -2260,7 +2230,9 @@
       </value>
     </option>
     <option name="OC.VALID_STRING_ESCAPE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="89d8ff" />
+      </value>
     </option>
     <option name="Operation sign">
       <value>
