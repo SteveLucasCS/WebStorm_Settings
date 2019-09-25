@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T01:12:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-25T13:18:13</property>
+    <property name="modified">2019-09-25T14:02:29</property>
     <property name="originalScheme">Joker Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -728,7 +728,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d9913" />
+        <option name="FOREGROUND" value="a9958" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -755,7 +755,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fca1ff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -2160,11 +2160,6 @@
     <option name="OC.NUMBER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="OC.OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="a0b2c8" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
