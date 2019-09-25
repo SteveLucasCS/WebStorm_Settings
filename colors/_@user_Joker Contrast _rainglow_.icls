@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T01:12:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-25T12:49:58</property>
+    <property name="modified">2019-09-25T13:18:13</property>
     <property name="originalScheme">Joker Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -621,7 +621,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="bed3ed" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -2052,12 +2052,12 @@
     </option>
     <option name="OC.BRACES">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="e8ecff" />
       </value>
     </option>
     <option name="OC.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="c1d8f2" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2090,7 +2090,7 @@
     </option>
     <option name="OC.FORMAT_TOKEN">
       <value>
-        <option name="FOREGROUND" value="a0b2c8" />
+        <option name="FOREGROUND" value="78c8a3" />
       </value>
     </option>
     <option name="OC.FUNCTION">
@@ -2231,7 +2231,7 @@
     </option>
     <option name="OC.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="89d8ff" />
+        <option name="FOREGROUND" value="abf3ff" />
       </value>
     </option>
     <option name="Operation sign">
