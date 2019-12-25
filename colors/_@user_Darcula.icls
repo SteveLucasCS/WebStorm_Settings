@@ -3,26 +3,26 @@
     <property name="created">2019-09-25T15:46:40</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-11-08T20:45:14</property>
+    <property name="modified">2019-12-25T17:08:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="b27d" />
+    <option name="FILESTATUS_ADDED" value="e85362" />
     <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="9a6fc4" />
+    <option name="FILESTATUS_HIJACKED" value="9b78db" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="b27d" />
+    <option name="FILESTATUS_MODIFIED" value="e85362" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b27d" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b27d" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="e85362" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="e85362" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="b27d" />
+    <option name="FILESTATUS_modifiedOutside" value="e85362" />
   </colors>
 </scheme>
