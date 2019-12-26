@@ -4,19 +4,18 @@
     <property name="created">2019-12-25T17:00:15</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-12-25T19:26:34</property>
+    <property name="modified">2019-12-25T19:56:56</property>
     <property name="originalScheme">Hub Contrast (rainglow)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -625,7 +624,8 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="9b78db" />
+        <option name="FOREGROUND" value="ffc15e" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -678,12 +678,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="5392db" />
+        <option name="FOREGROUND" value="1aa9ff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="5392db" />
+        <option name="FOREGROUND" value="5599ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -714,7 +714,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c67ee7" />
+        <option name="FOREGROUND" value="e85362" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -726,7 +726,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="cd6afd" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -736,7 +736,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="5392db" />
+        <option name="FOREGROUND" value="37db88" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -746,7 +746,8 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="5392db" />
+        <option name="FOREGROUND" value="d7a6f0" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -1320,19 +1321,13 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="5397ff" />
+        <option name="FOREGROUND" value="5599ff" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="c37ce3" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="98c8ff" />
+        <option name="FOREGROUND" value="5599ff" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -1340,17 +1335,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="e85362" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.LOCAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="589eed" />
-      </value>
-    </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
