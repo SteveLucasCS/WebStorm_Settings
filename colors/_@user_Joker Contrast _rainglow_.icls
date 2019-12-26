@@ -4,7 +4,7 @@
     <property name="created">2019-09-19T01:12:18</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-25T22:33:02</property>
+    <property name="modified">2019-12-25T23:05:58</property>
     <property name="originalScheme">Joker Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -709,7 +709,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ca97ff" />
+        <option name="FOREGROUND" value="ff82d4" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -743,7 +743,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ff82d4" />
+        <option name="FOREGROUND" value="ca97ff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
