@@ -9,4 +9,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="insertQuotesForAttributeValue" value="false" />
+  </component>
 </application>
